@@ -1,0 +1,13 @@
+{
+    "list": [
+        {
+            "name": "Ethereum",
+            "type": "Balance",
+            "url": "eth.svg",
+            "balance": 0,
+            "usd_balance": 0,
+            "symbol": "ETH",
+            "symbol_tyle": "(ERC20)"
+        }
+    ]
+}

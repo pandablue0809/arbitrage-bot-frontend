@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "name": "Binance",
+            "icon": "binance.svg"
+        },
+        {
+            "name": "Kraken",
+            "icon": "kraken.svg"
+        },
+        {
+            "name": "Kucoin",
+            "icon": "kucoin.svg"
+        },
+        {
+            "name": "Bitfinex",
+            "icon": "bitfinex.svg"
+        },
+        {
+            "name": "Poloniex",
+            "icon": "poloniex.svg"
+        }
+    ]
+}

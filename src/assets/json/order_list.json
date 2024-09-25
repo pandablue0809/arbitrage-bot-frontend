@@ -1,0 +1,114 @@
+{
+    "list": [
+        {
+            "count": 0,
+            "token_1": "BTC",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "BTC"
+        },
+        {
+            "count": 0,
+            "token_1": "BNB",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "BNB"
+        },
+        {
+            "count": 0,
+            "token_1": "ETH",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "ETH"
+        },
+        {
+            "count": 0,
+            "token_1": "LTC",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "LTC"
+        },
+        {
+            "count": 0,
+            "token_1": "DOGE",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "DOGE"
+        },
+        {
+            "count": 0,
+            "token_1": "XRP",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "XRP"
+        },
+        {
+            "count": 0,
+            "token_1": "DASH",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "DASH"
+        },
+        {
+            "count": 0,
+            "token_1": "BCH",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "BCH"
+        },
+        {
+            "count": 0,
+            "token_1": "ZEC",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "ZEC"
+        },
+        {
+            "count": 0,
+            "token_1": "TRX",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "TRX"
+        },
+        {
+            "count": 0,
+            "token_1": "XLM",
+            "token_2": "USDT"
+        },
+        {
+            "count": 0,
+            "token_1": "USDT",
+            "token_2": "XLM"
+        }
+    ]
+}

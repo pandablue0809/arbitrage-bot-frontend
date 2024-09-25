@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:url(#SVGID_3_);}
+	.st2{fill:url(#SVGID_4_);}
+	.st3{fill:none;stroke:#FFFFFF;stroke-opacity:0.5;}
+	.st4{fill:#AFC6FD;}
+	.st5{fill:#C6D6FE;}
+	.st6{fill:#A3BBFC;}
+	.st7{fill:#BCCDFD;}
+	.st8{fill:#95B1FC;}
+	.st9{fill:#A9C0FD;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="30" height="30"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="8.2707" y1="330.8911" x2="22.2626" y2="356.0685" gradientTransform="matrix(1 0 0 1 0 -328)">
+				<stop  offset="0" style="stop-color:#7394F4"/>
+				<stop  offset="1" style="stop-color:#4163E6"/>
+			</linearGradient>
+			<path class="st1" d="M15,0L15,0c8.3,0,15,6.7,15,15v0c0,8.2-6.7,15-15,15h0C6.7,30,0,23.3,0,15v0C0,6.7,6.7,0,15,0z"/>
+			
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="6.9992" y1="328.7251" x2="23.6349" y2="358.4062" gradientTransform="matrix(1 0 0 1 0 -328)">
+				<stop  offset="0" style="stop-color:#7394F4"/>
+				<stop  offset="1" style="stop-color:#4163E6"/>
+			</linearGradient>
+			<path class="st2" d="M15,29c7.7,0,14-6.3,14-14S22.7,1,15,1S1,7.3,1,15S7.3,29,15,29z"/>
+			<path class="st3" d="M15,28.5c7.5,0,13.5-6.1,13.5-13.5S22.5,1.5,15,1.5S1.5,7.5,1.5,15S7.5,28.5,15,28.5z"/>
+			<g>
+				<path class="st4" d="M15,5v7.4l6.2,2.8L15,5z"/>
+				<path class="st5" d="M15,5L8.7,15.2l6.2-2.8V5H15z"/>
+				<path class="st6" d="M15,20v5l6.3-8.7L15,20z"/>
+				<path class="st7" d="M15,25v-5l-6.2-3.6L15,25z"/>
+				<path class="st8" d="M15,18.8l6.2-3.6L15,12.4V18.8z"/>
+				<path class="st9" d="M8.7,15.2l6.2,3.6v-6.4L8.7,15.2z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

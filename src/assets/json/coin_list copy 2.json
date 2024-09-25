@@ -1,0 +1,58 @@
+{
+    "list": [
+        {
+            "name": "Bitcoin",
+            "type": "Balance",
+            "url": "bitcoin.svg",
+            "balance": 0,
+            "usd_balance": 0,
+            "symbol": "BTC",
+            "symbol_tyle": ""
+        },
+        {
+            "name": "Ethereum",
+            "type": "Balance",
+            "url": "eth.svg",
+            "balance": 0,
+            "usd_balance": 0,
+            "symbol": "ETH",
+            "symbol_tyle": "(ERC20)"
+        },
+        {
+            "name": "Litecoin",
+            "type": "Balance",
+            "url": "ltc.svg",
+            "balance": 0,
+            "usd_balance": 0,
+            "symbol": "LTC",
+            "symbol_tyle": ""
+        },
+        {
+            "name": "USDT",
+            "type": "Balance",
+            "url": "usdt_erc20.svg",
+            "balance": 0,
+            "usd_balance": 0,
+            "symbol": "USDT",
+            "symbol_tyle": "(ERC20)"
+        },
+        {
+            "name": "USDT",
+            "type": "Balance",
+            "url": "usdt_trc20.svg",
+            "balance": 0,
+            "usd_balance": 0,
+            "symbol": "USDT",
+            "symbol_tyle": "(TRC20)"
+        },
+        {
+            "name": "USDT",
+            "type": "Balance",
+            "url": "usdt_bep20.svg",
+            "balance": 0,
+            "usd_balance": 0,
+            "symbol": "USDT",
+            "symbol_tyle": "(BEP20)"
+        }
+    ]
+}
